@@ -19,7 +19,7 @@ app.set('view engine', '.hbs')
 app.set('views', path.join(__dirname, 'views'))
 
 app.get('/', (request, response) => {
-  // Hello, it's goot to see you here.
+  // Hello, it's good to see you here.
   // Change the name and email so we know who you are!
   // let args = {
   //     data: {
