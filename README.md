@@ -31,7 +31,7 @@ clever deploy
 clever open
 ````
 
-You have just deployed this application to production, congrats 👏 ! And don't forget to modify the file `index.js`.
+You have just deployed this application to production, congrats 👏 ! And don't forget to modify the file `index.js`. If you are having trouble do not forget to import your SSH Keys in https://console.clever-cloud.com/users/me/ssh-keys
 
 ## Use Clever Cloud Console
 
